@@ -1,0 +1,2 @@
+<?php
+ecohe"holle word"
